@@ -1,3 +1,5 @@
+hackernews: https://news.ycombinator.com/item?id=5562660
+
 # What's the fuss? Let them pay you!
 
 How come only stores accept debit/credit cards? You should be able
